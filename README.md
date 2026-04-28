@@ -1,1 +1,3 @@
-# programming-2-CA
+Name: Awah Mambeh Beian Orich
+Department: Computer Science
+Matricule: 535225
