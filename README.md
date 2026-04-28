@@ -1,3 +1,3 @@
-Name: Awah Mambeh Beian Orich
+Name: Awah Mambeh Brian Orich
 Department: Computer Science
 Matricule: 535225
